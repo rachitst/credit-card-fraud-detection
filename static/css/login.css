@@ -1,0 +1,16 @@
+#div1{
+width:100%;
+height:100px;
+background-color:#690b56;
+border-bottom: 2px solid rgb(96, 28, 82);
+}
+
+.p1
+{
+font-size:30px;
+color:rgb(247, 244, 244);
+padding-top:25px;
+padding-left:10px;
+font-family:"HERCULANUM";
+}
+
